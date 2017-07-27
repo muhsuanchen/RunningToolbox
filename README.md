@@ -4,6 +4,7 @@ Java SDK Download
 
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
+
 In Terminal(cmd) - 
 
 cd to parent folder of RunningToolbox/
